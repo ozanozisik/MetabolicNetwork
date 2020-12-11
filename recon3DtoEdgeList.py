@@ -6,6 +6,7 @@ This code converts Recon3D_301.mat human metabolism data obtained from
 Virtual Metabolic Human database ( https://www.vmh.life/ ) to edge lists.
 For genes, NCBI ID - Approved Symbol conversion is done using the file
 obtained from HGNC ( https://www.genenames.org/ )
+Requires cobrapy and pandas
 """
 
 import cobra.test
