@@ -12,7 +12,6 @@ https://www.nature.com/articles/nbt.4072
 Recon3D is licensed under a Creative Commons Attribution-NonCommercial 2.0 Generic (CC BY-NC 2.0, https://creativecommons.org/licenses/by-nc/2.0/)
 
 
-HGNC
 HGNC Database, HUGO Gene Nomenclature Committee (HGNC), European Molecular Biology Laboratory, European Bioinformatics Institute (EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, United Kingdom www.genenames.org.
 Data downloaded on 11 December 2020
 https://pubmed.ncbi.nlm.nih.gov/30304474/
