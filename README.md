@@ -5,6 +5,11 @@ For genes, NCBI ID - Approved Symbol conversion is done using the file obtained 
 The resulting networks are available in http://www.ndexbio.org/.
 
 
+This work is conducted in Anaïs Baudot Lab (https://www.marseille-medical-genetics.org/a-baudot/).
+
+
+
+
 
 Recon3D
 https://www.vmh.life/
@@ -16,7 +21,5 @@ HGNC Database, HUGO Gene Nomenclature Committee (HGNC), European Molecular Biolo
 Data downloaded on 11 December 2020
 https://pubmed.ncbi.nlm.nih.gov/30304474/
 
-
-This work is conducted in Anaïs Baudot Lab (https://www.marseille-medical-genetics.org/a-baudot/).
 
 
