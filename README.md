@@ -3,14 +3,13 @@
 The provided code converts Recon3D_301.mat human metabolism data obtained from Virtual Metabolic Human database (https://www.vmh.life/) to edge lists.
 For genes, NCBI ID - Approved Symbol conversion is done using the file obtained from HGNC (https://www.genenames.org/).
 The resulting networks are available in http://www.ndexbio.org/.
-
-
+<br />
+<br />
 This work is conducted in Anaïs Baudot Lab (https://www.marseille-medical-genetics.org/a-baudot/).
-
-
-
-
-
+<br />
+<br />
+<br />
+<br />
 Recon3D
 https://www.vmh.life/
 https://www.nature.com/articles/nbt.4072
