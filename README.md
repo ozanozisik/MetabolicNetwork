@@ -5,7 +5,7 @@ For genes, NCBI ID - Approved Symbol conversion is done using the file obtained 
 The resulting networks are available in http://www.ndexbio.org/.
 <br />
 <br />
-This work is conducted in Anaïs Baudot Lab (https://www.marseille-medical-genetics.org/a-baudot/).
+This work is conducted in the Networks and Systems Biology for Diseases group of Anaïs Baudot (https://www.marseille-medical-genetics.org/a-baudot/).
 <br />
 <br />
 <br />
